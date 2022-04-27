@@ -4,9 +4,13 @@
 
 请看
 
-[Big-Data-Analysis/大数据学习笔记.md at main · Tcoder-l3est/Big-Data-Analysis (github.com)](https://github.com/Tcoder-l3est/Big-Data-Analysis/blob/main/大数据学习笔记.md)
+[Big-Data-Analysis/大数据学习笔记](https://github.com/Tcoder-l3est/Big-Data-Analysis/blob/main/大数据学习笔记.md)
 
-或[Big Data (一)&(二) 导论&HDFS_Tcoder-l3est的博客-CSDN博客](https://blog.csdn.net/qq_47865838/article/details/123978229)
+[Big Data (一)&(二) 导论&HDFS](https://blog.csdn.net/qq_47865838/article/details/123978229)
+
+[BigData CH4 MapReduce](https://blog.csdn.net/qq_47865838/article/details/124459173?spm=1001.2014.3001.5501)
+
+[BigData CH5 HBase](https://blog.csdn.net/qq_47865838/article/details/124461713?spm=1001.2014.3001.5501)
 
 ## Lab 0 Hadoop系统安装运行与基本程序开发
 
