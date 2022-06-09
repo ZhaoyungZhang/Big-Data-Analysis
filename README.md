@@ -44,5 +44,16 @@
 
 [可扩展的带词频倒排索引](https://blog.csdn.net/qq_47865838/article/details/124192857?spm=1001.2014.3001.5501)
 
-## Lab3 PageRank
+## Lab 3 PageRank
 
+[LearnPageRank](https://blog.csdn.net/qq_47865838/article/details/124849372?spm=1001.2014.3001.5501)
+
+## Lab 4 并行化数据挖掘算法设计
+
+[并行化数据挖掘算法设计](https://blog.csdn.net/qq_47865838/article/details/124880737?spm=1001.2014.3001.5501)
+
+## Lab 5 数据分析系统的设计与实现
+
+[数据分析系统的设计与实现](https://blog.csdn.net/qq_47865838/article/details/125213741?spm=1001.2014.3001.5501)
+
+参考自[淘宝双11数据分析与预测课程案例 厦大数据库实验室博客 (xmu.edu.cn)](http://dblab.xmu.edu.cn/blog/1362-2/)
